@@ -1,0 +1,5 @@
+flask
+spacy
+pdfplumber
+PyPDF2
+nltk
